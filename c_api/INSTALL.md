@@ -102,3 +102,5 @@ if (c) { /* ... */ }
 ```
 
 A more complete example is available by the name `bin/example_gpu_c`.
+
+<!-- Auto-update: 2025-10-14T05:02:50.596728 -->
