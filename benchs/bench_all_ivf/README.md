@@ -18,3 +18,5 @@ Since the number of experiments is quite large the script is structured so that 
 The code depends on Faiss and can use 1 to 8 GPUs to do the k-means clustering for large vocabularies. 
 
 It was run in October 2018 for the results in the wiki. 
+
+<!-- Auto-update: 2025-10-14T01:31:13.868092 -->
