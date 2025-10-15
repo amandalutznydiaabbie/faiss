@@ -686,3 +686,5 @@ by conda install -c pytorch faiss-gpu cudatoolkit=10.0.
 [1.4.0]: https://github.com/facebookresearch/faiss/compare/v1.3.0...v1.4.0
 [1.3.0]: https://github.com/facebookresearch/faiss/compare/v1.2.1...v1.3.0
 [1.2.1]: https://github.com/facebookresearch/faiss/releases/tag/v1.2.1
+
+<!-- Auto-update: 2025-10-15T12:01:37.813937 -->
