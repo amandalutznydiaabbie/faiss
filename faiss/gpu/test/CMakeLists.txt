@@ -65,3 +65,5 @@ else()
   target_link_libraries(demo_ivfpq_indexing_gpu
     PRIVATE faiss gtest_main CUDA::cudart)
 endif()
+
+# Update: 2025-10-17
