@@ -50,3 +50,5 @@ outlined on that page and do not file a public issue.
 
 By contributing to Faiss, you agree that your contributions will be licensed
 under the LICENSE file in the root directory of this source tree.
+
+<!-- Auto-update: 2025-10-19T09:21:35.465480 -->
